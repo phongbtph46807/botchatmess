@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Acer Aspire 7",
+    "description": "Laptop gaming giá rẻ cho sinh viên, hiệu năng ổn định.",
+    "price": 14500000,
+    "category": "Laptop",
+    "rating": 4.5,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Chuột Logitech G102",
+    "description": "Chuột gaming nhẹ, LED RGB, độ chính xác cao.",
+    "price": 400000,
+    "category": "Chuột",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Bàn phím cơ AKKO 3087",
+    "description": "Bàn phím cơ switch Cherry, layout TKL, gõ rất sướng.",
+    "price": 1200000,
+    "category": "Bàn phím",
+    "rating": 4.6,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Tai nghe Sony WH-CH520",
+    "description": "Tai nghe Bluetooth, pin lên tới 50h, âm thanh tốt.",
+    "price": 950000,
+    "category": "Tai nghe",
+    "rating": 4.4,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Màn hình LG 24MP400",
+    "description": "Màn hình 24 inch, tấm nền IPS, độ phân giải Full HD.",
+    "price": 2450000,
+    "category": "Màn hình",
+    "rating": 4.3,
+    "inStock": true
+  }
+]
